@@ -181,6 +181,11 @@ https://templatemo.com/tm-587-tiya-golf-club
 
                                 <input type="password" name="member-login-password" id="member-login-password" pattern="[0-9a-zA-Z]{4,10}" class="form-control" placeholder="Password" required="">
                             </div>
+                            <div class="mb-4">
+                                <label class="form-label mb-2" for="member-login-password">email</label>
+
+                                <input type="password" name="member-login-password" id="member-login-password" pattern="[0-9a-zA-Z]{4,10}" class="form-control" placeholder="Password" required="">
+                            </div>
 
                             <div class="form-check mb-4">
                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
